@@ -85,6 +85,9 @@ LinkedIn Post of Notebook : [LinkedIn Post](https://www.linkedin.com/feed/update
 │					
 └──setup.py                               - project's metadata and configuration details
 ```
+# InAction
+<img width="855" alt="image" src="https://github.com/ankitrajput77/DiamondPricePrediction/assets/113281225/790895da-0916-4361-9fc1-60de5308c03b">
+
 
 # Contributing
 Any kind of enhancement or contribution is welcomed.
