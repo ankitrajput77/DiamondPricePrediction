@@ -11,6 +11,16 @@ Diamonds are precious gemstones that are evaluated based on their unique feature
 - [seaborn](https://seaborn.pydata.org/)
 - [python](https://www.python.org/)
 
+## Installation
+
+To install webApp, follow these steps:
+
+1. Clone the repository: `git clone [https://github.com/ankitrajput77/DiamondPricePrediction.git](https://github.com/ankitrajput77/DiamondPricePrediction.git)`
+2. Navigate to the project directory: `cd DiamondPricePrediction`
+3. Install dependencies: `pip install -r requirements.txt`
+4. Set up : `python application.py`
+5. Start the server: `http://127.0.0.1:5000/`
+
 # In Details
 ```
 ├──  artifacts                    - here's the model pickle and dataset files.
