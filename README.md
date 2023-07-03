@@ -11,7 +11,7 @@ Diamonds are precious gemstones that are evaluated based on their unique feature
 - [seaborn](https://seaborn.pydata.org/)
 - [python](https://www.python.org/)
 
-## Installation
+## Installation and Usage
 
 To install webApp, follow these steps:
 
@@ -20,6 +20,11 @@ To install webApp, follow these steps:
 3. Install dependencies: `pip install -r requirements.txt`
 4. Set up : `python application.py`
 5. Start the server: `http://127.0.0.1:5000/`
+
+# Notebook
+Used dataset is present on kaggle 
+Use this notebook to access : `https://www.kaggle.com/code/ankitrajput77/eda-modeltrain-pipeline`
+LinkedIn Post of Notebook : `https://www.linkedin.com/feed/update/urn:li:activity:7081327130298527744?utm_source=share&utm_medium=member_desktop`
 
 # In Details
 ```
