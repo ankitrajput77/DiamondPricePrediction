@@ -21,13 +21,29 @@ conda create --prefix venv python==3.8 -y
 ```
 ```
 conda activate venv/
-````
+```
 
-1. Clone the repository: `git clone https://github.com/ankitrajput77/DiamondPricePrediction.git`
-2. Navigate to the project directory: `cd DiamondPricePrediction`
-3. Install dependencies: `pip install -r requirements.txt`
-4. Set up : `python application.py`
-5. Start the server: `http://127.0.0.1:5000/`
+1. Clone the repository:
+```
+git clone https://github.com/ankitrajput77/DiamondPricePrediction.git
+```
+
+2. Navigate to the project directory:
+```
+cd DiamondPricePrediction
+```
+3. Install dependencies:
+```
+pip install -r requirements.txt
+```
+4. Set up :
+```
+python application.py
+```
+5. Start the server:
+```
+http://127.0.0.1:5000/
+```
 
 # Notebook
 Used dataset is present on kaggle 
