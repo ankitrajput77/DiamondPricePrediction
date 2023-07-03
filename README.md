@@ -23,8 +23,8 @@ To install webApp, follow these steps:
 
 # Notebook
 Used dataset is present on kaggle 
-Use this notebook to access : `(https://www.kaggle.com/code/ankitrajput77/eda-modeltrain-pipeline)`
-LinkedIn Post of Notebook : `(https://www.linkedin.com/feed/update/urn:li:activity:7081327130298527744?utm_source=share&utm_medium=member_desktop)`
+Use this notebook to access : `[Kaggle Notebook](https://www.kaggle.com/code/ankitrajput77/eda-modeltrain-pipeline)`
+LinkedIn Post of Notebook : `[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7081327130298527744?utm_source=share&utm_medium=member_desktop)`
 
 # In Details
 ```
