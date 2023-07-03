@@ -1,4 +1,4 @@
-# Machine Learning Project Template
+# Machine Learning Project
 
 Diamond price prediction is the process of estimating the value or cost of a diamond based on various factors and characteristics. It involves using data analysis, statistical modeling, and machine learning techniques to predict the market price or worth of a diamond.
 
