@@ -2,5 +2,5 @@ pandas
 numpy
 seaborn
 flask
-
-# -e .
+scikit-learn
+# -e .  #Using the -e .  in requirements.txt can be  helpful when you are working on multiple interconnected packages or when you want to test changes to your package without the need for repetitive installation steps during development.
