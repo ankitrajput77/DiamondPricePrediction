@@ -15,6 +15,14 @@ Diamonds are precious gemstones that are evaluated based on their unique feature
 
 To install webApp, follow these steps:
 
+Environment Setup
+```
+conda create --prefix venv python==3.8 -y
+```
+```
+conda activate venv/
+````
+
 1. Clone the repository: `git clone https://github.com/ankitrajput77/DiamondPricePrediction.git`
 2. Navigate to the project directory: `cd DiamondPricePrediction`
 3. Install dependencies: `pip install -r requirements.txt`
