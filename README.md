@@ -17,7 +17,7 @@ To install webApp, follow these steps:
 
 Environment Setup
 ```
-conda create --prefix venv python==3.8 -y
+conda create -p venv python==3.8
 ```
 ```
 conda activate venv/
