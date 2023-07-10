@@ -11,7 +11,7 @@ Diamonds are precious gemstones that are evaluated based on their unique feature
 - [seaborn](https://seaborn.pydata.org/)
 - [python](https://www.python.org/)
 
-## Installation and Usage
+# Installation and Usage
 
 To install webApp, follow these steps:
 
